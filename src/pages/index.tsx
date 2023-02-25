@@ -49,7 +49,7 @@ export default function Home() {
         </div>
         
         <p className='mt-6 text-sm text-slate-400'>
-          Идея для веб-сайта возникла благодаря вопросам в чате на стриме <a className='underline underline-offset-4 text-sky-600 hover:text-sky-400 transition-colors' href='https://www.twitch.tv/nuke73' rel="noreferrer" target="_blank">@Nuke73</a> и невероятно простой <a className='underline underline-offset-4 text-sky-600 hover:text-sky-400 transition-colors' href='/scheme-cut.jpg' rel="noreferrer" target="_blank">схеме</a>.
+          Идея <a className='underline underline-offset-4 text-sky-600 hover:text-sky-400 transition-colors' href='https://github.com/TenkoSpirit/stoit-li-krutit' rel="noreferrer" target="_blank">веб-сайта</a> возникла благодаря вопросам в чате на стриме <a className='underline underline-offset-4 text-sky-600 hover:text-sky-400 transition-colors' href='https://www.twitch.tv/nuke73' rel="noreferrer" target="_blank">@Nuke73</a> и его авторской <a className='underline underline-offset-4 text-sky-600 hover:text-sky-400 transition-colors' href='/scheme-cut.jpg' rel="noreferrer" target="_blank">схеме</a> :)
         </p>
       </main>
     </>
